@@ -1,5 +1,4 @@
-# Student Project Template (C, Makefile)
-
+# Student Project Template 
 ## Build & Run
 ```bash
 make        # compile
